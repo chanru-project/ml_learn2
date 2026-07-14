@@ -1,0 +1,6 @@
+# Python cache artifacts
+__pycache__/
+*.py[cod]
+
+# Local Jupyter kernel environment files
+share/jupyter/kernels/python3/site-packages/
